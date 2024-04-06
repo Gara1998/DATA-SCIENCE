@@ -1,0 +1,11 @@
+id_empleado,nombre,apellido,id_tienda,id_jefe_directo
+1,Ana,Garcia,1,NA
+2,Julia,Perez,1,1
+3,Jon,Rodriguez,2,1
+4,Iker,Etxeberria,2,3
+5,Luisa,Garcia,3,1
+6,Fernando,Martin,4,NA
+7,Diana,Fernandez,5,6
+8,Lorena,Uriarte,5,6
+9,Sara,Fernandez,5,6
+10,Inigo,Alzola,1,1
