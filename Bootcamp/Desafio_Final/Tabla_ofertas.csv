@@ -1,0 +1,554 @@
+Id_offer,Id_categoria,Titulo,Nivel
+OFF0001,DOBLE316,Doble Grado en Ingeniería Eléctrica + Ingeniería en Tecnologías Industriales,2
+OFF0001,IDIOMA001,Euskera,3
+OFF0001,IDIOMA002,Ingles,4
+OFF0001,HAB009,"Gestión del Tiempo, Organización y Planificación",1
+OFF0001,HAB003,Capacidad de Analisis y de Toma de Decisiones,1
+OFF0002,SOCIALES066,Grado en Dirección de Empresas Tecnológicas,1
+OFF0002,SOCIALES024,Grado en Ciencias Empresariales,2
+OFF0002,IDIOMA002,Ingles,4
+OFF0002,HAB009,"Gestión del Tiempo, Organización y Planificación",1
+OFF0002,HAB010,Habilidades digitales,1
+OFF0002,HAB015,Trabajo bajo Presión,1
+OFF0003,DOBLE346,Doble Grado en Ingeniería en Tecnologías de Telecomunicación + Análisis de Negocios,2
+OFF0003,IDIOMA003,Frances,1
+OFF0003,HAB001,Adaptabilidad y Flexibilidad,1
+OFF0003,HAB007,Creatividad e  Innovación,1
+OFF0003,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0004,SEAD03,Técnico Superior en Prevención de Riesgos Profesionales,2
+OFF0004,IDIOMA001,Euskera,2
+OFF0004,HAB0015,Trabajo bajo Presión,1
+OFF0004,HAB002,Autogestión y Proactividad,1
+OFF0004,HAB005,Compromiso y Motivación,1
+OFF0005,DOBLE023,Doble Grado en Administración y Dirección de Empresas + Marketing,2
+OFF0005,IDIOMA002,Ingles,2
+OFF0005,IDIOMA004,Alemán,5
+OFF0005,IDIOMA001,Euskera,1
+OFF0005,HAB007,Creatividad e Innovación,1
+OFF0005,HAB012,Negociación y Pensamiento Estratégico,1
+OFF0006,DOBLE180,Doble Grado en Economía + Turismo,1
+OFF0006,IDIOMA001,Euskera,6
+OFF0006,IDIOMA002,Ingles,2
+OFF0006,HAB010,Habilidades Digitales,1
+OFF0006,HAB009,"Gestión del Tiempo, Organización y Planificación",1
+OFF0006,HAB006,Comunicación interpresonal y empatía,1
+OFF0007,CIENCIAS011,Grado en Ciencias del Mar,2
+OFF0007,IDIOMA004,Alemán,2
+OFF0007,IDIOMA002,Ingles,6
+OFF0007,HAB008,Escucha activa y Resolución de conflictos,1
+OFF0007,HAB005,Compromiso y Motivación,1
+OFF0008,DOBLE503,Doble Grado en Relaciones Internacionales + Turismo,2
+OFF0008,IDIOMA007,Árabe,3
+OFF0008,IDIOMA002,Ingles,4
+OFF0008,HAB012,Negociación y Pensamiento Estratégico,1
+OFF0008,HAB011,Liderazgo y Etica Profesional,1
+OFF0008,HAB018,Habilidades técnicas,1
+OFF0009,TMVO03,Técnico Superior en Mantenimiento Aeromecánico de Aviones con Motor de Pistón,2
+OFF0009,IDIOMA001,Euskera,2
+OFF0009,IDIOMA002,Ingles,2
+OFF0009,IDIOMA003,Frances,2
+OFF0009,HAB015,Trabajo bajo Presión,1
+OFF0009,HAB001,Adaptabilidad y Flexibilidad,1
+OFF0010,ARTES153,Grado en Paisajismo,1
+OFF0010,IDIOMA001,Euskera,4
+OFF0010,IDIOMA002,Ingles,3
+OFF0010,HAB007,Creatividad e Innovación,1
+OFF0010,HAB002,Autogestión y Proactividad,1
+OFF0011,ING151,Grado en Ingeniería en Explotación de Minas y Recursos Energéticos,1
+OFF0011,IDIOMA001,Euskera,5
+OFF0011,IDIOMA002,Ingles,4
+OFF0011,HAB004,Colaboración y Trabajo en equipo,1
+OFF0011,HAB015,Trabajo bajo presión,1
+OFF0012,DOBLE506,Doble Grado en Relaciones Laborales y Recursos Humanos + Trabajo Social,2
+OFF0012,IDIOMA001,Euskera,1
+OFF0012,IDIOMA002,Ingles,3
+OFF0012,HAB004,Colaboración y Trabajo en equipo,1
+OFF0012,HAB006,Comunicación interpersonal y empatia,1
+OFF0012,HAB001,Adaptabilidad y Flexibilidad,1
+OFF0013,ING155,Grado en Ingeniería en Informática,2
+OFF0013,IDIOMA001,Euskera,6
+OFF0013,IDIOMA002,Ingles,7
+OFF0013,IDIOMA005,Chino,1
+OFF0013,HAB010,Habilidades Digitales,1
+OFF0013,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0013,HAB012,Negociación y Pensamiento estratégico,1
+OFF0014,ARTES146,Grado en Lingüística Aplicada y Ciencias del Lenguaje,2
+OFF0014,IDIOMA007,Árabe,1
+OFF0014,IDIOMA005,Chino,6
+OFF0014,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+OFF0014,HAB002,Autogestion y Proactividad,1
+OFF0014,HAB014,Pensamiento crítico y analitico,1
+OFF0015,SOCIALES196,Grado en Turismo y Gestión del Ocio,2
+OFF0015,SOCIALES046,Grado en Comunicación Global y Estratégica,1
+OFF0015,IDIOMA004,Alemán,5
+OFF0015,IDIOMA001,Euskera,2
+OFF0015,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+OFF0015,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0015,HAB012,Negociación y Pensamiento estratégico,1
+OFF0016,DOBLE521,Doble Grado en Traducción e Interpretación: Alemán + Turismo,1
+OFF0016,IDIOMA002,Ingles,7
+OFF0016,IDIOMA004,Alemán,1
+OFF0016,IDIOMA005,Chino,2
+OFF0016,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+OFF0016,HAB002,Autogestion y Proactividad,1
+OFF0017,SOCIALES042,Grado en Comunicación Audiovisual y Multimedia,2
+OFF0017,IDIOMA003,Frances,2
+OFF0017,IDIOMA005,Chino,2
+OFF0017,HAB007,Creatividad e Innovacion,1
+OFF0017,HAB010,Habilidades Digitales,1
+OFF0018,SOCIALES103,"Grado en Finanzas, Banca y Seguros",1
+OFF0018,IDIOMA002,Ingles,2
+OFF0018,HAB012,Negociación y Pensamiento estategico,1
+OFF0018,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0018,HAB014,Pensamiento crítico y analitico,1
+OFF0019,CSALUD003,Grado en Biología Sanitaria,2
+OFF0019,IDIOMA002,Ingles,3
+OFF0019,IDIOMA001,Euskera,4
+OFF0019,HAB014,Pensamiento crítico y analitico,1
+OFF0019,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0019,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0020,SAN02M,Técnico en Farmacia y Parafarmacia,1
+OFF0020,IDIOMA001,Euskera,6
+OFF0020,IDIOMA002,Ingles,6
+OFF0020,IDIOMA003,Frances,6
+OFF0020,HAB013,Orientación al cliente,1
+OFF0020,HAB006,Comunicación interpersonal y empatia,1
+OFF0021,ING119,Grado en Ingeniería de Tecnología de Minas y Energía,1
+OFF0021,IDIOMA001,Euskera,5
+OFF0021,HAB014,Pensamiento crítico y analitico,1
+OFF0021,HAB010,Habilidades Digitales,1
+OFF0021,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0022,ADGG0208,Actividades administrativas en la relación con el cliente,1
+OFF0022,IDIOMA003,Frances,3
+OFF0022,IDIOMA006,Ruso,2
+OFF0022,HAB013,Orientación al cliente,1
+OFF0022,HAB006,Comunicación interpersonal y empatia,1
+OFF0023,CSALUD004,Grado en Biomedicina,1
+OFF0023,IDIOMA001,Euskera,2
+OFF0023,IDIOMA006,Ruso,6
+OFF0023,IDIOMA002,Ingles,7
+OFF0023,HAB002,Autogestion y Proactividad,1
+OFF0023,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0024,ING171,Grado en Ingeniería en Tecnología Industrial,1
+OFF0024,IDIOMA001,Euskera,3
+OFF0024,IDIOMA003,Frances,1
+OFF0024,HAB002,Autogestion y Proactividad,1
+OFF0024,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+OFF0024,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0025,CIENCIAS026,Grado en Química,2
+OFF0025,IDIOMA004,Aleman,7
+OFF0025,IDIOMA001,Euskera,3
+OFF0025,IDIOMA002,Ingles,7
+OFF0025,HAB002,Autogestion y Proactividad,1
+OFF0025,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0025,HAB001,Adaptabilidad y Flexibilidad,1
+OFF0026,DOBLE395,Doble Grado en Ingeniería Telemática + Ingeniería Informática en Tecnologías de la Información,2
+OFF0026,IDIOMA002,Ingles,1
+OFF0026,IDIOMA003,Frances,3
+OFF0026,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0026,HAB007,Creatividad e Innovacion,1
+OFF0026,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+OFF0027,ING248,Grado en Transporte y Logística,2
+OFF0027,IDIOMA002,Ingles,3
+OFF0027,IDIOMA003,Frances,6
+OFF0027,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0027,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+OFF0027,HAB002,Autogestion y Proactividad,1
+OFF0028,SOCIALES058,Grado en Derecho,2
+OFF0028,IDIOMA001,Euskera,2
+OFF0028,IDIOMA002,Ingles,7
+OFF0028,HAB012,Negociación y Pensamiento estategico,1
+OFF0028,HAB008,Escucha activa y Resolución de conflictos,1
+OFF0028,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0029,DOBLE536,Doble Grado en Turismo + Marketing y Dirección Comercial,2
+OFF0029,IDIOMA002,Ingles,6
+OFF0029,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0029,HAB007,Creatividad e Innovacion,1
+OFF0029,HAB006,Comunicación interpersonal y empatia,1
+OFF0030,ARTES156,Grado en Traducción e Interpretación: Inglés - Francés,2
+OFF0030,DOBLE314,Doble Grado en Ingeniería Eléctrica + Ingeniería Electrónica Industrial,2
+OFF0030,IDIOMA002,Ingles,3
+OFF0030,IDIOMA007,Árabe,3
+OFF0030,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0030,HAB002,Autogestion y Proactividad,1
+OFF0030,HAB015,Trabajo bajo presión,1
+OFF0031,SOCIALES045,Grado en Comunicación e Industrias Culturales,2
+OFF0031,ARTES036,Grado en Diseño de Videojuegos,2
+OFF0031,IDIOMA002,Ingles,2
+OFF0031,IDIOMA001,Euskera,5
+OFF0031,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0031,HAB013,Orientación al cliente,1
+OFF0031,HAB007,Creatividad e Innovacion,1
+OFF0032,SOCIALES182,Grado en Relaciones Internacionales y Unión Europea,2
+OFF0032,IDIOMA002,Ingles,5
+OFF0032,IDIOMA003,Frances,4
+OFF0032,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0032,HAB012,Negociación y Pensamiento estrategico,1
+OFF0032,HAB035,Habilidades de observación,1
+OFF0033,TCPN,Técnico en Fabricación y Ennoblecimiento de Productos Textiles,2
+OFF0033,IDIOMA002,Ingles,4
+OFF0033,IDIOMA005,Chino,4
+OFF0033,HAB001,Adaptabilidad y Flexibilidad,1
+OFF0034,ING012,Grado en Ciencia de Datos,1
+OFF0034,IDIOMA004,Alemán,7
+OFF0034,IDIOMA002,Ingles,6
+OFF0034,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0034,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0034,HAB014,Pensamiento crítico y analitico,1
+OFF0035,ARTES042,Grado en Diseño y Desarrollo de Videojuegos,2
+OFF0035,IDIOMA001,Ingles,2
+OFF0035,IDIOMA005,Chino,1
+OFF0035,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0035,HAB013,Orientación al cliente,1
+OFF0035,HAB007,Creatividad e Innovacion,1
+OFF0036,DOBLE409,Doble Grado en Lingüística y Lenguas Aplicadas + Estudios Ingleses,2
+OFF0036,IDIOMA003,Frances,5
+OFF0036,IDIOMA002,Ingles,6
+OFF0036,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0036,HAB001,Adaptabilidad y Flexibilidad,1
+OFF0036,HAB005,Compromiso y Motivación,1
+OFF0037,ADG01B,Título Profesional Básico en Servicios Administrativos,1
+OFF0037,IDIOMA002,Ingles,4
+OFF0037,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+OFF0037,HAB010,Habilidades Digitales,1
+OFF0038,CIENCIAS009,Grado en Ciencias Agrarias y Bioeconomía,2
+OFF0038,IDIOMA003,Frances,1
+OFF0038,IDIOMA006,Ruso,4
+OFF0038,IDIOMA005,Chino,3
+OFF0038,HAB001,Adaptabilidad y Flexibilidad,1
+OFF0038,HAB002,Autogestion y Proactividad,1
+OFF0039,ARTES075,Grado en Estudios Semíticos e Islámicos,2
+OFF0039,IDIOMA001,Euskera,5
+OFF0039,IDIOMA007,Árabe,2
+OFF0039,HAB014,Pensamiento crítico y analitico,1
+OFF0039,HAB015,Trabajo bajo presión,1
+OFF0040,ARTES094,"Grado en Geografía, Medio Ambiente y Planificación Territorial",1
+OFF0040,IDIOMA002,Ingles,7
+OFF0040,IDIOMA001,Euskera,2
+OFF0040,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+OFF0040,HAB001,Adaptabilidad y Flexibilidad,1
+OFF0040,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0041,SOCIALES109,Grado en Geografía y Medio Ambiente,1
+OFF0041,IDIOMA001,Euskera,2
+OFF0041,IDIOMA003,Frances,1
+OFF0041,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+OFF0041,HAB001,Adaptabilidad y Flexibilidad,1
+OFF0041,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0042,ARTES106,Grado en Historia y Patrimonio Histórico,1
+OFF0042,IDIOMA002,Ingles,3
+OFF0042,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0042,HAB002,Autogestion y Proactividad,1
+OFF0043,DOBLE163,Doble Grado en Diseño de Moda + Comercio,1
+OFF0043,IDIOMA005,Chino,5
+OFF0043,HAB006,Comunicación interpersonal y empatia,1
+OFF0043,HAB007,Creatividad e Innovacion,1
+OFF0043,HAB008,Escucha activa y Resolución de conflictos,1
+OFF0044,DOBLE159,Doble Grado en Dirección y Creación de Empresas + Derecho,1
+OFF0044,IDIOMA002,Ingles,3
+OFF0044,IDIOMA003,Frances,3
+OFF0044,HAB012,Negociación y Pensamiento estategico,1
+OFF0044,HAB008,Escucha activa y Resolución de conflictos,1
+OFF0044,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0045,ING238,Grado en Tecnología de la Ingeniería Civil,2
+OFF0045,IDIOMA005,Chino,3
+OFF0045,HAB012,Negociación y Pensamiento estategico,1
+OFF0045,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+OFF0045,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0046,DOBLE293,Doble Grado en Ingeniería de la Edificación (Arquitectura Técnica) + Ingeniería Civil,1
+OFF0046,IDIOMA005,Chino,2
+OFF0046,IDIOMA004,Aleman,4
+OFF0046,IDIOMA002,Ingles,5
+OFF0046,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0046,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+OFF0046,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0047,ARTES016,Grado en Ciencias de la Cultura y Difusión Cultural,1
+OFF0047,IDIOMA003,Frances,3
+OFF0047,IDIOMA005,Chino,3
+OFF0047,IDIOMA007,Árabe,2
+OFF0047,HAB008,Escucha activa y Resolución de conflictos,1
+OFF0047,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+OFF0047,HAB010,Habilidades Digitales,1
+OFF0048,DOBLE090,Doble Grado en Ciencias Políticas + Relaciones Internacionales,2
+OFF0048,IDIOMA005,Chino,7
+OFF0048,HAB011,Liderazgo y Etica profesional,1
+OFF0048,HAB012,Negociación y Pensamiento estratégico,1
+OFF0048,HAB014,Pensamiento crítico y analitico,1
+OFF0049,SOCIALES164,Grado en Negocios Internacionales,2
+OFF0049,IDIOMA004,Aleman,1
+OFF0049,IDIOMA006,Ruso,1
+OFF0049,HAB011,Liderazgo y Etica profesional,1
+OFF0049,HAB012,Negociación y Pensamiento estratégico,1
+OFF0049,HAB006,Comunicación interpersonal y empatia,1
+OFF0050,DOBLE086,Doble Grado en Ciencias Empresariales + Turismo,1
+OFF0050,IDIOMA007,Árabe,2
+OFF0050,IDIOMA006,Ruso,4
+OFF0050,IDIOMA001,Euskera,4
+OFF0050,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0050,HAB005,Compromiso y Motivación,1
+OFF0050,HAB006,Comunicación interpersonal y empatia,1
+OFF0051,ING188,Grado en Ingeniería Informática,2
+OFF0051,IDIOMA006,Ruso,1
+OFF0051,IDIOMA003,Frances,5
+OFF0051,IDIOMA002,Ingles,5
+OFF0051,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0051,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0051,HAB005,Compromiso y Motivación,1
+OFF0052,CSALUD012,Grado en Medicina,1
+OFF0052,IDIOMA004,Aleman,5
+OFF0052,HAB001,Adaptabilidad y Flexibilidad,1
+OFF0052,HAB002,Autogestion y Proactividad,1
+OFF0053,ING218,Grado en Ingeniería y Gestión Empresarial,2
+OFF0053,IDIOMA006,Ruso,1
+OFF0053,IDIOMA001,Euskera,4
+OFF0053,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0053,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0053,HAB014,Pensamiento crítico y analitico,1
+OFF0054,DOBLE107,Doble Grado en Comunicación Audiovisual y Nuevos Medios + Publicidad Creativa,2
+OFF0054,IDIOMA003,Frances,5
+OFF0054,IDIOMA002,Ingles,3
+OFF0054,HAB006,Comunicación interpersonal y empatia,1
+OFF0054,HAB007,Creatividad e Innovacion,1
+OFF0054,HAB008,Escucha activa y Resolución de conflictos,1
+OFF0055,SOCIALES046,Grado en Comunicación Global y Estratégica,1
+OFF0055,IDIOMA002,Ingles,2
+OFF0055,IDIOMA005,Chino,7
+OFF0055,IDIOMA003,Frances,3
+OFF0055,HAB006,Comunicación interpersonal y empatia,1
+OFF0055,HAB007,Creatividad e Innovacion,1
+OFF0055,HAB008,Escucha activa y Resolución de conflictos,1
+OFF0056,DOBLE158,Doble Grado en Dirección de Empresas + Economía y Gestión,2
+OFF0056,IDIOMA002,Ingles,2
+OFF0056,HAB010,Habilidades Digitales,1
+OFF0056,HAB011,Liderazgo y Etica profesional,1
+OFF0056,HAB012,Negociación y Pensamiento estratégico,1
+OFF0057,DOBLE474,"Doble Grado en Publicidad y Relaciones Públicas + Comunicación Corporativa, Protocolo y Organización de Eventos",2
+OFF0057,IDIOMA005,Chino,7
+OFF0057,HAB006,Comunicación interpersonal y empatia,1
+OFF0057,HAB007,Creatividad e Innovacion,1
+OFF0057,HAB008,Escucha activa y Resolución de conflictos,1
+OFF0058,TMV01M,Técnico en Carrocería,2
+OFF0058,IDIOMA001,Euskera,4
+OFF0058,HAB013,Orientación al cliente,1
+OFF0058,HAB014,Pensamiento crítico y analitico,1
+OFF0058,HAB015,Trabajo bajo presión,1
+OFF0059,SOCIALES185,Grado en Relaciones Laborales y Empleo,2
+OFF0059,IDIOMA001,Euskera,6
+OFF0059,IDIOMA003,Frances,2
+OFF0059,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0059,HAB005,Compromiso y Motivación,1
+OFF0059,HAB006,Comunicación interpersonal y empatia,1
+OFF0060,DOBLE295,Doble Grado en Ingeniería de la Energía + Ingeniería en Organización Industrial,1
+OFF0060,IDIOMA003,Frances,1
+OFF0060,IDIOMA006,Ruso,2
+OFF0060,IDIOMA004,Aleman,7
+OFF0060,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0060,HAB005,Compromiso y Motivación,1
+OFF0060,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0061,ING058,Grado en Ingeniería Ambiental,2
+OFF0061,IDIOMA002,Ingles,3
+OFF0061,HAB001,Adaptabilidad y Flexibilidad,1
+OFF0061,HAB002,Autogestion y Proactividad,1
+OFF0061,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0062,CIENCIAS020,Grado en Innovación en Procesos y Productos Alimentarios,2
+OFF0062,IDIOMA002,Ingles,3
+OFF0062,HAB007,Creatividad e Innovacion,1
+OFF0062,HAB008,Escucha activa y Resolución de conflictos,1
+OFF0062,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+OFF0063,ING247,Grado en Tecnologías y Servicios de Telecomunicación,2
+OFF0063,IDIOMA002,Ingles,1
+OFF0063,HAB007,Creatividad e Innovacion,1
+OFF0063,HAB008,Escucha activa y Resolución de conflictos,1
+OFF0063,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+OFF0064,ING222,Grado en Inteligencia Artificial,1
+OFF0064,IDIOMA004,Aleman,5
+OFF0064,HAB007,Creatividad e Innovacion,1
+OFF0064,HAB010,Habilidades Digitales,1
+OFF0064,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+OFF0065,DOBLE184,Doble Grado en Economía y Negocios Internacionales + Derecho,1
+OFF0065,IDIOMA005,Chino,3
+OFF0065,IDIOMA002,Ingles,1
+OFF0065,HAB011,Liderazgo y Etica profesional,1
+OFF0065,HAB012,Negociación y Pensamiento estratégico,1
+OFF0065,HAB014,Pensamiento crítico y analitico,1
+OFF0066,DOBLE455,Doble Grado en Periodismo + Humanidades,1
+OFF0066,IDIOMA002,Ingles,4
+OFF0066,IDIOMA003,Frances,1
+OFF0066,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0066,HAB005,Compromiso y Motivación,1
+OFF0066,HAB006,Comunicación interpersonal y empatia,1
+OFF0067,SSC01,Título Profesional Básico en Actividades Domésticas y Limpieza de Edificios,2
+OFF0067,IDIOMA001,Euskera,2
+OFF0067,IDIOMA007,Árabe,5
+OFF0067,HAB013,Orientación al cliente,1
+OFF0068,SOCIALES077,Grado en Diseño y Gestión de Proyectos,1
+OFF0068,IDIOMA002,Ingles,6
+OFF0068,HAB008,Escucha activa y Resolución de conflictos,1
+OFF0068,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+OFF0068,HAB007,Creatividad e Innovacion,1
+OFF0069,ADGG0108,Asistencia a la dirección,3
+OFF0069,IDIOMA001,Euskera,
+OFF0069,HAB001,Adaptabilidad y Flexibilidad,1
+OFF0069,HAB002,Autogestion y Proactividad,1
+OFF0069,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0070,DOBLE315,Doble Grado en Ingeniería Eléctrica + Ingeniería Electrónica Industrial y Automática,2
+OFF0070,IDIOMA001,Ingles,6
+OFF0070,IDIOMA003,Frances,4
+OFF0070,HAB001,Adaptabilidad y Flexibilidad,7
+OFF0070,HAB002,Autogestion y Proactividad,1
+OFF0070,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0071,ING241,Grado en Tecnologías de la Información,2
+OFF0071,IDIOMA001,Euskera,1
+OFF0071,IDIOMA003,Frances,2
+OFF0071,IDIOMA004,Aleman,1
+OFF0071,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0071,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0071,HAB002,Autogestion y Proactividad,1
+OFF0072,DOBLE180,Doble Grado en Economía + Turismo,1
+OFF0072,IDIOMA003,Frances,6
+OFF0072,IDIOMA004,Aleman,4
+OFF0072,IDIOMA006,Ruso,3
+OFF0072,HAB005,Compromiso y Motivación,1
+OFF0072,HAB006,Comunicación interpersonal y empatia,1
+OFF0072,HAB007,Creatividad e Innovacion,1
+OFF0073,DOBLE532,Doble Grado en Turismo + Comercio,1
+OFF0073,IDIOMA002,Ingles,7
+OFF0073,IDIOMA005,Chino,5
+OFF0073,HAB005,Compromiso y Motivación,1
+OFF0073,HAB006,Comunicación interpersonal y empatia,1
+OFF0073,HAB007,Creatividad e Innovacion,1
+OFF0074,SOCIALES148,Grado en Marketing,1
+OFF0074,IDIOMA002,Ingles,3
+OFF0074,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0074,HAB005,Compromiso y Motivación,1
+OFF0074,HAB008,Escucha activa y Resolución de conflictos,1
+OFF0075,COMS01,Técnico Superior en Marketing y Publicidad,1
+OFF0075,IDIOMA002,Ingles,2
+OFF0075,IDIOMA001,Euskera,4
+OFF0075,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0075,HAB010,Habilidades Digitales,1
+OFF0075,HAB008,Escucha activa y Resolución de conflictos,1
+OFF0076,ELES04,Técnico Superior en Automatización y Robótica Industrial,1
+OFF0076,IDIOMA002,Ingles,6
+OFF0076,HAB001,Adaptabilidad y Flexibilidad,1
+OFF0076,HAB002,Autogestion y Proactividad,1
+OFF0076,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0077,IMSS05,"Técnico Superior en Iluminación, Captación y Tratamiento de Imagen",1
+OFF0077,IDIOMA002,Ingles,6
+OFF0077,HAB007,Creatividad e Innovacion,1
+OFF0078,TMVG01,Técnico en Electromecánica de Vehículos Automóviles,2
+OFF0078,IDIOMA004,Aleman,3
+OFF0078,IDIOMA002,Ingles,5
+OFF0078,HAB002,Autogestion y Proactividad,1
+OFF0078,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0079,ING003,Grado en Arquitectura,2
+OFF0079,IDIOMA001,Euskera,7
+OFF0079,IDIOMA002,Ingles,7
+OFF0079,HAB001,Adaptabilidad y Flexibilidad,1
+OFF0079,HAB002,Autogestion y Proactividad,1
+OFF0079,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0080,EOCS02,Técnico Superior en Proyectos de Obra Civil,2
+OFF0080,IDIOMA002,Ingles,3
+OFF0080,HAB002,Autogestion y Proactividad,1
+OFF0080,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0081,ELES05,Técnico Superior en Electromedicina Clínica,1
+OFF0081,IDIOMA002,Ingles,5
+OFF0081,HAB001,Adaptabilidad y Flexibilidad,1
+OFF0081,HAB002,Autogestion y Proactividad,1
+OFF0081,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0082,DOBLE198,Doble Grado en Educación Primaria + Psicología,1
+OFF0082,SOCIALES197,Grado en Turismo y Ocio,1
+OFF0082,IDIOMA002,Ingles,2
+OFF0082,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0082,HAB006,Comunicación interpersonal y empatia,1
+OFF0082,HAB013,Orientación al cliente,1
+OFF0083,ING122,Grado en Ingeniería de Tecnologías de Telecomunicación,2
+OFF0083,IDIOMA005,Chino,4
+OFF0083,HAB001,Adaptabilidad y Flexibilidad,1
+OFF0083,HAB002,Autogestion y Proactividad,1
+OFF0083,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0084,SOCIALES160,Grado en Marketing y Gestión Comercial,1
+OFF0084,IDIOMA002,Ingles,4
+OFF0084,IDIOMA004,Aleman,2
+OFF0084,HAB008,Escucha activa y Resolución de conflictos,1
+OFF0084,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+OFF0084,HAB010,Habilidades Digitales,1
+OFF0085,SOCIALES068,Grado en Dirección y Administración de Empresas,1
+OFF0085,IDIOMA001,Euskera,2
+OFF0085,IDIOMA002,Ingles,1
+OFF0085,IDIOMA003,Frances,4
+OFF0085,HAB008,Escucha activa y Resolución de conflictos,1
+OFF0085,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+OFF0085,HAB010,Habilidades Digitales,1
+OFF0086,DOBLE199,Doble Grado en Educación Social + Información y Documentación,2
+OFF0086,IDIOMA006,Ruso,5
+OFF0086,HAB007,Creatividad e Innovacion,1
+OFF0086,HAB008,Escucha activa y Resolución de conflictos,1
+OFF0087,DOBLE325,Doble Grado en Ingeniería Electrónica Industrial y Automática + Ingeniería Eléctrica,1
+OFF0087,IDIOMA002,Ingles,3
+OFF0087,HAB002,Autogestion y Proactividad,1
+OFF0087,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+OFF0087,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0088,EOC03B,"Técnico en Obras de Interior, Decoración y Rehabilitación",2
+OFF0088,MAMS01,Técnico Superior en Diseño y Amueblamiento,
+OFF0088,IDIOMA001,Euskera,5
+OFF0088,HAB006,Comunicación interpersonal y empatia,1
+OFF0088,HAB007,Creatividad e Innovacion,1
+OFF0089,INA01M,"Técnico en Panadería, Repostería y Confitería",1
+OFF0089,IDIOMA001,Euskera,2
+OFF0089,IDIOMA007,Árabe,4
+OFF0089,HAB001,Adaptabilidad y Flexibilidad,1
+OFF0089,HAB002,Autogestion y Proactividad,1
+OFF0090,IMPS02,Técnico Superior en Estilismo y Dirección de Peluquería,1
+OFF0090,IDIOMA001,Euskera,3
+OFF0090,HAB005,Compromiso y Motivación,1
+OFF0090,HAB006,Comunicación interpersonal y empatia,1
+OFF0091,ARTES123,Grado en Lengua y Cultura Vasca / Euskal Hizkuntza Eta Kultura,2
+OFF0091,IDIOMA001,Euskera,6
+OFF0091,IDIOMA002,Ingles,3
+OFF0091,HAB005,Compromiso y Motivación,1
+OFF0091,HAB006,Comunicación interpersonal y empatia,1
+OFF0092,SOCIALES171,"Grado en Política, Derecho y Economía",2
+OFF0092,IDIOMA002,Ingles,7
+OFF0092,HAB008,Escucha activa y Resolución de conflictos,1
+OFF0092,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0092,HAB011,Liderazgo y Etica profesional,1
+OFF0093,CSALUD011,Grado en Logopedia,2
+OFF0093,IDIOMA001,Euskera,5
+OFF0093,QUIS01,Técnico Superior en Laboratorio de Análisis y de Control de Calidad,1
+OFF0093,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0093,HAB014,Pensamiento crítico y analitico,1
+OFF0094,TCPC01,Técnico en Calzado y Complementos de Moda,1
+OFF0094,IDIOMA003,Frances,1
+OFF0094,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0094,HAB005,Compromiso y Motivación,1
+OFF0094,HAB006,Comunicación interpersonal y empatia,1
+OFF0095,SANS06,Técnico Superior en Higiene Bucodental,1
+OFF0095,SANS02,Técnico Superior en Prótesis Dentales,2
+OFF0095,IDIOMA002,Ingles,3
+OFF0095,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0095,HAB005,Compromiso y Motivación,1
+OFF0095,HAB006,Comunicación interpersonal y empatia,1
+OFF0096,DOBLE284,Doble Grado en Ingeniería Biomédica + Ingeniería Mecánica,1
+OFF0096,IDIOMA007,Árabe,6
+OFF0096,HAB012,Negociación y Pensamiento estategico,1
+OFF0096,HAB008,Escucha activa y Resolución de conflictos,1
+OFF0096,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0097,ING091,Grado en Ingeniería de las Tecnologías de Telecomunicación,2
+OFF0097,IDIOMA002,Ingles,5
+OFF0097,HAB012,Negociación y Pensamiento estategico,1
+OFF0097,HAB008,Escucha activa y Resolución de conflictos,1
+OFF0097,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF0098,SEA01M,Técnico en Emergencias y Protección Civil,1
+OFF0098,IDIOMA004,Aleman,5
+OFF0098,HAB008,Escucha activa y Resolución de conflictos,1
+OFF0098,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+OFF0099,TMVU02,Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones,2
+OFF0099,IDIOMA001,Euskera,2
+OFF0099,HAB001,Adaptabilidad y Flexibilidad,1
+OFF0099,HAB004,Colaboracion y Trabajo en Equipo,1
+OFF00100,DOBLE374,Doble Grado en Ingeniería Mecánica + Ingeniería de la Energía y Sostenibilidad,1
+OFF00100,DOBLE333,Doble Grado en Ingeniería en Diseño Industrial y Desarrollo del Producto + Ingeniería Mecánica,2
+OFF00100,IDIOMA001,Euskera,7
+OFF00100,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+OFF00100,HAB010,Habilidades Digitales,1
+OFF00100,HAB005,Compromiso y Motivación,1

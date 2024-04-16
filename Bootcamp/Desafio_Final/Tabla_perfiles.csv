@@ -1,0 +1,516 @@
+Id_Usuario,Id_categoria,Titulo,Nivel
+U0001,ING010,Grado en Bioingeniería,2
+U0001,IDIOMA004,Aleman,6
+U0001,IDIOMA007,Árabe,6
+U0001,HAB012,Negociación y Pensamiento estategico,1
+U0001,HAB008,Escucha activa y Resolución de conflictos,1
+U0001,HAB004,Colaboracion y Trabajo en Equipo,1
+U0002,SEAD03,Técnico Superior en Prevención de Riesgos Profesionales,2
+U0002,IDIOMA001,Euskera,1
+U0002,HAB0015,Trabajo bajo Presión,7
+U0002,HAB002,Autogestión y Proactividad,1
+U0002,HAB005,Compromiso y Motivación,1
+U0003,SOCIALES103,"Grado en Finanzas, Banca y Seguros",2
+U0003,IDIOMA002,Ingles,7
+U0003,HAB012,Negociación y Pensamiento estategico,3
+U0003,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0003,HAB014,Pensamiento crítico y analitico,1
+U0004,ARTES071,Grado en Estudios Internacionales,1
+U0004,IDIOMA004,Aleman,5
+U0004,IDIOMA006,Ruso,3
+U0004,HAB005,Compromiso y Motivación,1
+U0004,HAB006,Comunicación interpersonal y empatia,1
+U0004,HAB007,Creatividad e Innovacion,1
+U0005,DOBLE483,"Doble Grado en Publicidad, Relaciones Públicas y Marketing + Comunicación Audiovisual",2
+U0005,IDIOMA002,Ingles,3
+U0005,HAB004,Colaboracion y Trabajo en Equipo,1
+U0005,HAB005,Compromiso y Motivación,1
+U0005,HAB008,Escucha activa y Resolución de conflictos,1
+U0006,ING022,Grado en Diseño,1
+U0006,IDIOMA007,Árabe,4
+U0006,"IDIOMA001	Euskera
+HAB006	Comunicación interpersonal y empatia
+HAB007	Creatividad e Innovacion",Euskera,2
+U0006,HAB010,Habilidades Digitales,1
+U0006,HAB005,Compromiso y Motivación,1
+U0007,DOBLE339,Doble Grado en Ingeniería en Recursos Energéticos + Ingeniería Química Industrial,1
+U0007,IDIOMA005,Chino,6
+U0007,IDIOMA006,Ruso,5
+U0007,HAB012,Negociación y Pensamiento estategico,1
+U0007,HAB008,Escucha activa y Resolución de conflictos,1
+U0007,HAB004,Colaboracion y Trabajo en Equipo,1
+U0008,DOBLE220,Doble Grado en Farmacia + Óptica y Optometría,1
+U0008,IDIOMA005,Chino,2
+U0008,HAB024,Análisis financiero,1
+U0008,HAB007,Proactividad,1
+U0008,HAB035,Habilidades de observación,1
+U0008,HAB010,Pensamiento crítico,1
+U0009,DOBLE536,Doble Grado en Turismo + Marketing y Dirección Comercial,1
+U0009,IDIOMA002,Ingles,2
+U0009,HAB004,Colaboracion y Trabajo en Equipo,7
+U0009,HAB007,Creatividad e Innovacion,1
+U0009,HAB006,Comunicación interpersonal y empatia,1
+U0010,ING040,Grado en Ingeniería Aeroespacial en Aeronavegación,1
+U0010,IDIOMA006,Ruso,3
+U0010,IDIOMA002,Ingles,6
+U0010,HAB001,Adaptabilidad y Flexibilidad,1
+U0010,HAB002,Autogestion y Proactividad,1
+U0010,HAB004,Colaboracion y Trabajo en Equipo,1
+U0011,IMSS05,"Técnico Superior en Iluminación, Captación y Tratamiento de Imagen",2
+U0011,IDIOMA002,Ingles,1
+U0011,HAB007,Creatividad e Innovacion,1
+U0012,DOBLE125,Doble Grado en Derecho + Administración de Empresas,2
+U0012,IDIOMA002,Ingles,7
+U0012,IDIOMA003,Frances,2
+U0012,HAB012,Negociación y Pensamiento estategico,1
+U0012,HAB008,Escucha activa y Resolución de conflictos,1
+U0012,HAB004,Colaboracion y Trabajo en Equipo,1
+U0013,SOCIALES152,Grado en Marketing e Investigación de Mercados,2
+U0013,IDIOMA002,Ingles,2
+U0013,HAB004,Colaboracion y Trabajo en Equipo,2
+U0013,HAB005,Compromiso y Motivación,1
+U0013,HAB008,Escucha activa y Resolución de conflictos,1
+U0014,ARTES042,Grado en Diseño y Desarrollo de Videojuegos,1
+U0014,IDIOMA001,Ingles,3
+U0014,IDIOMA005,Chino,4
+U0014,HAB004,Colaboracion y Trabajo en Equipo,1
+U0014,HAB013,Orientación al cliente,1
+U0014,HAB007,Creatividad e Innovacion,1
+U0015,SOCIALES021,Grado en Ciencias Criminológicas y de la Seguridad,2
+U0015,IDIOMA004,Aleman,5
+U0015,IDIOMA002,Ingles,1
+U0015,IDIOMA001,Euskera,1
+U0015,HAB004,Colaboracion y Trabajo en Equipo,1
+U0015,HAB010,Habilidades Digitales,1
+U0016,HAB008,Escucha activa y Resolución de conflictos,1
+U0016,AGAR0108,Aprovechamientos forestales,1
+U0016,IDIOMA002,Ingles,1
+U0016,HAB002,Autogestion y Proactividad,1
+U0016,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0016,HAB004,Colaboracion y Trabajo en Equipo,1
+U0017,DOBLE315,Doble Grado en Ingeniería Eléctrica + Ingeniería Electrónica Industrial y Automática,2
+U0017,DOBLE325,Doble Grado en Ingeniería Electrónica Industrial y Automática + Ingeniería Eléctrica,6
+U0017,IDIOMA002,Ingles,6
+U0017,HAB002,Autogestion y Proactividad,1
+U0017,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0017,HAB004,Colaboracion y Trabajo en Equipo,1
+U0018,ING122,Grado en Ingeniería de Tecnologías de Telecomunicación,1
+U0018,IDIOMA005,Chino,4
+U0018,HAB001,Adaptabilidad y Flexibilidad,5
+U0018,HAB002,Autogestion y Proactividad,1
+U0018,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0019,SOCIALES183,Grado en Relaciones Laborales,2
+U0019,IDIOMA002,Ingles,3
+U0019,HAB002,Autogestion y Proactividad,1
+U0019,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0019,HAB004,Colaboracion y Trabajo en Equipo,1
+U0020,ING029,Grado en Estudios de Arquitectura,2
+U0020,DOBLE441,Doble Grado en Nutrición Humana y Dietética + Ciencias de la Actividad Física y del Deporte,1
+U0020,IDIOMA003,Frances,6
+U0020,HAB008,Escucha activa y Resolución de conflictos,1
+U0020,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+U0020,HAB010,Habilidades Digitales,1
+U0021,ARTES053,Grado en Estudios de Asia Oriental (Chino),1
+U0021,FMES01,Técnico Superior en Programación de la Producción en Fabricación Mecánica,1
+U0021,IDIOMA002,Ingles,4
+U0021,IDIOMA003,Frances,6
+U0021,HAB001,Adaptabilidad y Flexibilidad,1
+U0021,HAB002,Autogestion y Proactividad,1
+U0022,DOBLE164,Doble Grado en Diseño de Videojuegos + Ingeniería Informática,2
+U0022,IDIOMA001,Ingles,4
+U0022,HAB006,Comunicación interpersonal y empatia,1
+U0022,HAB007,Creatividad e Innovacion,1
+U0023,DOBLE090,Doble Grado en Ciencias Políticas + Relaciones Internacionales,1
+U0023,IDIOMA005,Chino,2
+U0023,HAB011,Liderazgo y Etica profesional,5
+U0023,HAB012,Negociación y Pensamiento estratégico,7
+U0023,HAB014,Pensamiento crítico y analitico,1
+U0024,SEAD02,Técnico Superior en Coordinación de Emergencias y Protección Civil,2
+U0024,IDIOMA002,Ingles,6
+U0024,HAB001,Adaptabilidad y Flexibilidad,1
+U0024,HAB002,Autogestion y Proactividad,1
+U0024,HAB004,Colaboracion y Trabajo en Equipo,1
+U0025,QUIS03,"Técnico Superior en Fabricación de Productos Farmacéuticos, Biotecnológicos y Afines",2
+U0025,IDIOMA007,Árabe,1
+U0025,IDIOMA005,Chino,5
+U0025,HAB004,Colaboracion y Trabajo en Equipo,1
+U0025,HAB005,Compromiso y Motivación,1
+U0025,HAB006,Comunicación interpersonal y empatia,1
+U0026,ADGG0408,Operaciones auxiliares administrativas y generales,1
+U0026,ARTES083,Grado en Filología Moderna. Inglés,1
+U0026,IDIOMA001,Euskera,6
+U0026,HAB001,Comunicación,1
+U0026,HAB011,Adaptabilidad,1
+U0026,HAB036,Trabajo de campo,1
+U0027,ARTES123,Grado en Lengua y Cultura Vasca / Euskal Hizkuntza Eta Kultura,1
+U0027,IDIOMA001,Euskera,6
+U0027,IDIOMA002,Ingles,1
+U0027,HAB005,Compromiso y Motivación,1
+U0027,HAB006,Comunicación interpersonal y empatia,1
+U0028,ING003,Grado en Arquitectura,1
+U0028,IDIOMA001,Euskera,2
+U0028,IDIOMA002,Ingles,1
+U0028,HAB001,Adaptabilidad y Flexibilidad,5
+U0028,HAB002,Autogestion y Proactividad,1
+U0028,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0029,SOCIALES148,Grado en Maestro de Educación Primaria,1
+U0029,IDIOMA007,Árabe,6
+U0029,IDIOMA002,Ingles,5
+U0029,HAB007,Creatividad e Innovacion,1
+U0029,HAB008,Escucha activa y Resolución de conflictos,1
+U0029,HAB039,Habilidades en gestión de sistemas de información,1
+U0030,EOCS02,Técnico Superior en Proyectos de Obra Civil,1
+U0030,IDIOMA002,Ingles,7
+U0030,HAB002,Autogestion y Proactividad,3
+U0030,HAB004,Colaboracion y Trabajo en Equipo,1
+U0031,DOBLE017,Doble Grado en Administración y Dirección de Empresas + Ingeniería de Organización Industrial,1
+U0031,IDIOMA003,Frances,4
+U0031,HAB004,Colaboracion y Trabajo en Equipo,1
+U0031,HAB005,Compromiso y Motivación,1
+U0031,HAB006,Comunicación interpersonal y empatia,1
+U0032,DOBLE190,Doble Grado en Educación Primaria + Ciencias de la Actividad Física y del Deporte,1
+U0032,IDIOMA002,Ingles,6
+U0032,HAB007,Creatividad e Innovacion,1
+U0032,HAB008,Escucha activa y Resolución de conflictos,1
+U0032,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+U0033,SOCIALES140,Grado en Inteligencia de Negocios,2
+U0033,IDIOMA004,Aleman,3
+U0033,IDIOMA001,Euskera,7
+U0033,HAB010,Habilidades Digitales,1
+U0033,HAB011,Liderazgo y Etica profesional,1
+U0033,HAB012,Negociación y Pensamiento estratégico,1
+U0034,SOCIALES106,Grado en Gastronomía y Artes Culinarias,1
+U0034,DOBLE371,Doble Grado en Ingeniería Matemática Aplicada al Análisis de Datos + Ingeniería Informática,1
+U0034,IDIOMA002,Ingles,4
+U0034,HAB014,Pensamiento crítico y analitico,1
+U0034,HAB015,Trabajo bajo presión,1
+U0035,DOBLE013,Doble Grado en Administración y Dirección de Empresas + Estudios Internacionales,1
+U0035,IDIOMA002,Ingles,2
+U0035,IDIOMA004,Aleman,5
+U0035,HAB004,Colaboracion y Trabajo en Equipo,1
+U0035,HAB005,Compromiso y Motivación,1
+U0035,HAB006,Comunicación interpersonal y empatia,1
+U0036,DOBLE351,Doble Grado en Ingeniería Física + Ingeniería en Tecnologías Industriales,2
+U0036,IDIOMA006,Ruso,1
+U0036,HAB001,Adaptabilidad y Flexibilidad,1
+U0036,HAB002,Autogestion y Proactividad,1
+U0036,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0037,SOCIALES160,Grado en Marketing y Gestión Comercial,1
+U0037,IDIOMA002,Ingles,6
+U0037,IDIOMA004,Aleman,6
+U0037,HAB008,Escucha activa y Resolución de conflictos,1
+U0037,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+U0037,HAB010,Habilidades Digitales,1
+U0037,HAB010,Pensamiento crítico,1
+U0038,ING107,Grado en Ingeniería de Sistemas Aeroespaciales,1
+U0038,DOBLE441,Doble Grado en Nutrición Humana y Dietética + Ciencias de la Actividad Física y del Deporte,2
+U0038,IDIOMA007,Árabe,7
+U0038,HAB008,Escucha activa y Resolución de conflictos,1
+U0038,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+U0038,HAB007,Creatividad e Innovacion,1
+U0039,SOCIALES068,Grado en Dirección y Administración de Empresas,1
+U0039,IDIOMA001,Euskera,3
+U0039,IDIOMA002,Ingles,1
+U0039,IDIOMA003,Frances,1
+U0039,HAB008,Escucha activa y Resolución de conflictos,1
+U0040,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+U0040,HAB010,Habilidades Digitales,1
+U0040,HAB029,Ética profesional,1
+U0041,IMSS01,"Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos",1
+U0041,IDIOMA002,Ingles,3
+U0041,IDIOMA006,Ruso,2
+U0041,HAB001,Adaptabilidad y Flexibilidad,1
+U0041,HAB002,Autogestion y Proactividad,1
+U0041,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0042,DOBLE312,Doble Grado en Ingeniería del Software + Matemáticas,1
+U0042,IDIOMA003,Frances,3
+U0042,HAB001,Adaptabilidad y Flexibilidad,1
+U0042,HAB002,Autogestion y Proactividad,1
+U0042,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0043,ING140,"Grado en Ingeniería Electrónica, Robótica y Mecatrónica",1
+U0043,IDIOMA006,Ruso,5
+U0043,HAB001,Adaptabilidad y Flexibilidad,1
+U0043,HAB002,Autogestion y Proactividad,1
+U0043,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0044,DOBLE374,Doble Grado en Ingeniería Mecánica + Ingeniería de la Energía y Sostenibilidad,2
+U0044,SOCIALES164,Grado en Negocios Internacionales,2
+U0044,IDIOMA006,Ruso,3
+U0044,HAB004,Colaboracion y Trabajo en Equipo,1
+U0044,HAB010,Habilidades Digitales,1
+U0044,HAB008,Escucha activa y Resolución de conflictos,1
+U0045,ING214,Grado en Ingeniería Radioelectrónica Naval,2
+U0045,IDIOMA003,Frances,2
+U0045,HAB001,Adaptabilidad y Flexibilidad,1
+U0045,HAB002,Autogestion y Proactividad,1
+U0045,HAB004,Colaboracion y Trabajo en Equipo,1
+U0046,MAM01B,Título Profesional Básico en Carpintería y Mueble,1
+U0046,IDIOMA001,Euskera,2
+U0046,HAB001,Adaptabilidad y Flexibilidad,1
+U0046,HAB002,Autogestion y Proactividad,1
+U0047,DOBLE403,Doble Grado en Lengua de Signos Española y Comunidad Sorda + Educación Primaria,2
+U0047,IDIOMA001,Euskera,7
+U0047,HAB004,Colaboracion y Trabajo en Equipo,1
+U0047,HAB010,Habilidades Digitales,1
+U0047,HAB008,Escucha activa y Resolución de conflictos,1
+U0048,ING112,Grado en Ingeniería de Sistemas de Información,2
+U0048,IDIOMA003,Frances,3
+U0048,IDIOMA004,Aleman,7
+U0048,HAB001,Adaptabilidad y Flexibilidad,1
+U0048,HAB002,Autogestion y Proactividad,1
+U0048,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0049,EOCS02,Técnico Superior en Proyectos de Obra Civil,2
+U0049,IDIOMA001,Euskera,5
+U0049,HAB008,Escucha activa y Resolución de conflictos,1
+U0049,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+U0049,HAB010,Habilidades Digitales,1
+U0050,DOBLE370,Doble Grado en Ingeniería Matemática + Ingeniería Informática,1
+U0050,IDIOMA006,Ruso,5
+U0050,HAB002,Autogestion y Proactividad,1
+U0050,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0050,HAB004,Colaboracion y Trabajo en Equipo,1
+U0051,DOBLE011,Doble Grado en Administración y Dirección de Empresas + Dirección de Entornos Digitales,2
+U0051,IDIOMA003,Frances,6
+U0051,HAB011,Liderazgo y Etica profesional,1
+U0051,HAB012,Negociación y Pensamiento estratégico,1
+U0051,HAB014,Pensamiento crítico y analitico,1
+U0052,ARTES028,Grado en Creación Artística para Videojuegos y Juegos Aplicados,2
+U0052,IDIOMA002,Ingles,4
+U0052,HAB007,Creatividad e Innovacion,1
+U0052,HAB008,Escucha activa y Resolución de conflictos,1
+U0052,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+U0053,ING012,Grado en Ciencia de Datos,2
+U0053,IDIOMA004,Alemán,3
+U0053,IDIOMA002,Ingles,6
+U0053,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0053,HAB004,Colaboracion y Trabajo en Equipo,1
+U0053,HAB014,Pensamiento crítico y analitico,1
+U0054,DOBLE191,Doble Grado en Educación Primaria + Educación Infantil,1
+U0054,IDIOMA004,Aleman,1
+U0054,HAB004,Colaboracion y Trabajo en Equipo,1
+U0054,HAB001,Adaptabilidad y Flexibilidad,1
+U0054,HAB005,Compromiso y Motivación,1
+U0055,AGAR0110,Gestión de aprovechamientos forestales,2
+U0055,IDIOMA001,Euskera,5
+U0055,HAB009,Pensamiento estratégico,1
+U0055,HAB001,Gestión del tiempo,1
+U0056,DOBLE317,Doble Grado en Ingeniería Eléctrica + Ingeniería Energética,2
+U0056,DOBLE314,Doble Grado en Ingeniería Eléctrica + Ingeniería Electrónica Industrial,
+U0056,IDIOMA002,Inlges,2
+U0056,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0056,HAB002,Autogestion y Proactividad,1
+U0056,HAB015,Trabajo bajo presión,1
+U0057,CSALUD010,Grado en Fisioterapia,2
+U0057,IDIOMA001,Euskera,6
+U0057,HAB004,Colaboracion y Trabajo en Equipo,1
+U0057,HAB013,Orientación al cliente,1
+U0058,ING156,Grado en Ingeniería en Informática de Sistemas,1
+U0058,DOBLE182,Doble Grado en Economía Financiera y Actuarial + Economía,2
+U0058,IDIOMA006,Ruso,3
+U0058,HAB004,Colaboracion y Trabajo en Equipo,1
+U0058,HAB012,Negociación y Pensamiento estrategico,1
+U0059,DOBLE476,Doble Grado en Publicidad y Relaciones Públicas + Gestión de la Comunicación,1
+U0059,IDIOMA002,Ingles,3
+U0059,HAB004,Colaboracion y Trabajo en Equipo,1
+U0059,HAB005,Compromiso y Motivación,1
+U0059,HAB008,Escucha activa y Resolución de conflictos,1
+U0060,SOCIALES170,Grado en Periodismo y Comunicación Corporativa,2
+U0060,IDIOMA002,Ingles,2
+U0060,HAB001,Adaptabilidad y Flexibilidad,1
+U0060,HAB002,Autogestion y Proactividad,1
+U0060,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0061,CIENCIAS006,Grado en Biotecnología,2
+U0061,IDIOMA005,Chino,1
+U0061,HAB002,Autogestion y Proactividad,1
+U0061,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0061,HAB004,Colaboracion y Trabajo en Equipo,1
+U0062,SOCIALES133,Grado en Gestión Urbana / Bachelor of Urban Management,2
+U0062,IDIOMA003,Frances,7
+U0062,HAB008,Escucha activa y Resolución de conflictos,1
+U0062,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+U0062,HAB010,Habilidades Digitales,1
+U0063,ARTES041,Grado en Diseño y Creación Digitales,1
+U0063,IDIOMA002,Ingles,7
+U0063,IDIOMA004,Aleman,4
+U0063,HAB007,Creatividad e Innovacion,1
+U0063,HAB008,Escucha activa y Resolución de conflictos,1
+U0064,ING221,Grado en Innovación y Seguridad Alimentaria,2
+U0064,IDIOMA005,Chino,6
+U0064,IDIOMA003,Frances,7
+U0064,HAB002,Autogestion y Proactividad,1
+U0064,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0065,ING102,Grado en Ingeniería de Procesos Químicos Industriales,1
+U0065,IDIOMA002,Ingles,3
+U0065,IDIOMA003,Frances,2
+U0065,HAB004,Colaboracion y Trabajo en Equipo,1
+U0065,HAB001,Adaptabilidad y Flexibilidad,1
+U0065,HAB005,Compromiso y Motivación,1
+U0066,ING136,Grado en Ingeniería Electrónica Industrial,2
+U0066,IDIOMA001,Euskera,7
+U0066,IDIOMA002,Ingles,2
+U0066,HAB004,Colaboracion y Trabajo en Equipo,1
+U0066,HAB010,Habilidades Digitales,1
+U0067,SOCIALES095,Grado en Estadística Empresarial,1
+U0067,IDIOMA003,Frances,5
+U0067,IDIOMA006,Ruso,6
+U0067,HAB001,Adaptabilidad y Flexibilidad,1
+U0067,HAB002,Autogestion y Proactividad,1
+U0068,DOBLE102,Doble Grado en Comunicación Audiovisual + Gestión de la Comunicación,1
+U0068,IDIOMA005,Chino,6
+U0068,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+U0068,HAB001,Adaptabilidad y Flexibilidad,1
+U0068,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0069,ADGN0108,Financiación de empresas,1
+U0069,IDIOMA002,Ingles,5
+U0069,IDIOMA006,Ruso,3
+U0069,HAB001,Adaptabilidad y Flexibilidad,1
+U0069,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0070,DOBLE426,Doble Grado en Marketing e Investigación de Mercados + Turismo,1
+U0070,IDIOMA003,Frances,5
+U0070,IDIOMA001,Euskera,6
+U0070,HAB006,Comunicación interpersonal y empatia,1
+U0070,HAB007,Creatividad e Innovacion,1
+U0070,HAB008,Escucha activa y Resolución de conflictos,1
+U0071,ELES03,Técnico Superior en Mantenimiento Electrónico,2
+U0071,IDIOMA001,Euskera,6
+U0071,IDIOMA004,Aleman,6
+U0071,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+U0072,DOBLE219,Doble Grado en Farmacia + Nutrición Humana y Dietética,2
+U0072,IDIOMA004,Aleman,7
+U0072,IDIOMA006,Ruso,5
+U0072,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+U0072,HAB010,Habilidades Digitales,1
+U0072,HAB005,Compromiso y Motivación,1
+U0073,DOBLE507,Doble Grado en Sociología + Ciencia Política y Administración Pública,2
+U0073,IDIOMA001,Euskera,4
+U0073,HAB012,Negociación y Pensamiento estategico,1
+U0073,HAB008,Escucha activa y Resolución de conflictos,1
+U0073,HAB004,Colaboracion y Trabajo en Equipo,1
+U0074,ING131,Grado en Ingeniería Eléctrica y Electrónica,1
+U0074,IDIOMA002,Ingles,7
+U0074,HAB004,Colaboracion y Trabajo en Equipo,1
+U0074,HAB014,Pensamiento crítico y analitico,1
+U0075,SSC02,Técnico Superior en Formación para la Movilidad Segura y Sostenible,1
+U0075,IDIOMA001,Euskera,4
+U0075,HAB002,Autogestion y Proactividad,1
+U0075,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0076,DOBLE532,Doble Grado en Turismo + Comercio,1
+U0076,IDIOMA002,Ingles,1
+U0076,IDIOMA005,Chino,7
+U0076,HAB005,Compromiso y Motivación,1
+U0076,HAB006,Comunicación interpersonal y empatia,1
+U0076,HAB007,Creatividad e Innovacion,1
+U0077,FME01B,Título Profesional Básico en Fabricación y Montaje,2
+U0077,IDIOMA003,Frances,1
+U0077,IDIOMA006,Ruso,1
+U0077,HAB002,Autogestion y Proactividad,1
+U0078,SOCIALES151,Grado en Marketing,1
+U0078,IDIOMA002,Ingles,2
+U0078,HAB004,Colaboracion y Trabajo en Equipo,1
+U0078,HAB010,Habilidades Digitales,1
+U0078,HAB001,Adaptabilidad y Flexibilidad,1
+U0079,DOBLE150,Doble Grado en Derecho + Periodismo,1
+U0079,IDIOMA002,Ingles,2
+U0079,HAB004,Colaboracion y Trabajo en Equipo,1
+U0079,HAB012,Negociación y Pensamiento estrategico,1
+U0080,ING196,Grado en Ingeniería Informática y Tecnologías Virtuales,1
+U0080,IDIOMA005,Chino,3
+U0080,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+U0080,HAB010,Habilidades Digitales,1
+U0081,ING053,Grado en Ingeniería Agroalimentaria y de Sistemas Biológicos,2
+U0081,IDIOMA002,Ingles,6
+U0081,IDIOMA003,Frances,7
+U0081,HAB002,Autogestion y Proactividad,1
+U0081,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0082,DOBLE540,Doble Grado en Turismo y Gestión del Ocio + Marketing y Comunidades Digitales,2
+U0082,IDIOMA001,Euskera,4
+U0082,HAB007,Creatividad e Innovacion,1
+U0082,HAB008,Escucha activa y Resolución de conflictos,1
+U0082,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+U0083,IMA02M,Técnico en Instalaciones Frigoríficas y de Climatización,2
+U0083,IDIOMA002,Ingles,6
+U0083,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+U0084,ING062,Grado en Ingeniería Civil - Hidrología,1
+U0084,IDIOMA002,Ingles,3
+U0084,IDIOMA003,Frances,3
+U0084,HAB005,Compromiso y Motivación,1
+U0084,HAB006,Comunicación interpersonal y empatia,1
+U0084,HAB007,Creatividad e Innovacion,1
+U0085,ING235,Grado en Sonido e Imagen en Telecomunicación,2
+U0085,DOBLE276,Doble Grado en Ingeniería Agroalimentaria y del Medio Rural + Ciencia y Tecnología de los Alimentos,2
+U0085,IDIOMA002,Ingles,7
+U0085,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+U0085,HAB001,Adaptabilidad y Flexibilidad,1
+U0085,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0086,EOCS02,Técnico Superior en Proyectos de Obra Civil,1
+U0086,IDIOMA002,Ingles,5
+U0086,HAB002,Autogestion y Proactividad,1
+U0086,HAB004,Colaboracion y Trabajo en Equipo,1
+U0087,ING243,Grado en Tecnologías Industriales y Análisis Económico,2
+U0087,IDIOMA006,Ruso,2
+U0087,IDIOMA006,Ruso,7
+U0087,HAB012,Negociación y Pensamiento estategico,1
+U0087,HAB008,Escucha activa y Resolución de conflictos,1
+U0087,HAB004,Colaboracion y Trabajo en Equipo,1
+U0088,DOBLE325,Doble Grado en Ingeniería Electrónica Industrial y Automática + Ingeniería Eléctrica,1
+U0088,IDIOMA002,Ingles,3
+U0088,HAB002,Autogestion y Proactividad,1
+U0088,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0088,HAB004,Colaboracion y Trabajo en Equipo,1
+U0089,ING172,Grado en Ingeniería en Tecnología Minera,2
+U0089,IDIOMA002,Ingles,5
+U0089,IDIOMA003,Frances,2
+U0089,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+U0089,HAB010,Habilidades Digitales,1
+U0089,HAB005,Compromiso y Motivación,1
+U0089,HAB029,Ética profesional,1
+U0090,QUIS01,Técnico Superior en Laboratorio de Análisis y de Control de Calidad,1
+U0090,HAB004,Colaboracion y Trabajo en Equipo,1
+U0090,HAB014,Pensamiento crítico y analitico,4
+U0091,SOCIALES129,Grado en Gestión Hotelera y Turística,1
+U0091,IDIOMA004,Aleman,7
+U0091,HAB004,Colaboracion y Trabajo en Equipo,1
+U0092,ING024,Grado en Diseño Digital y Tecnologías Creativas,1
+U0092,IDIOMA001,Euskera,4
+U0092,IDIOMA002,Ingles,6
+U0092,HAB002,Autogestion y Proactividad,1
+U0092,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0093,ING055,Grado en Ingeniería Agroambiental,2
+U0093,IDIOMA002,Ingles,2
+U0093,IDIOMA003,Frances,2
+U0093,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+U0093,HAB001,Adaptabilidad y Flexibilidad,1
+U0093,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U0094,SOCIALES068,Grado en Dirección y Administración de Empresas,1
+U0094,IDIOMA001,Euskera,3
+U0094,IDIOMA002,Ingles,1
+U0094,IDIOMA003,Frances,1
+U0094,HAB008,Escucha activa y Resolución de conflictos,1
+U0094,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+U0095,CSALUD011,Grado en Logopedia,6
+U0095,HAB004,Colaboracion y Trabajo en Equipo,1
+U0095,HAB014,Pensamiento crítico y analitico,1
+U0096,CIENCIAS020,Grado en Innovación en Procesos y Productos Alimentarios,1
+U0096,DOBLE333,Doble Grado en Ingeniería en Diseño Industrial y Desarrollo del Producto + Ingeniería Mecánica,1
+U0096,IDIOMA001,Euskera,1
+U0096,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+U0096,HAB010,Habilidades Digitales,1
+U0096,HAB005,Compromiso y Motivación,1
+U0097,DOBLE511,Doble Grado en Terapia Ocupacional + Enfermería,2
+U0097,IDIOMA007,Árabe,7
+U0097,HAB004,Colaboracion y Trabajo en Equipo,1
+U0097,HAB014,Pensamiento crítico y analitico,1
+U0098,CIENCIAS002,Grado en Biología Ambiental,2
+U0098,DOBLE284,Doble Grado en Ingeniería Biomédica + Ingeniería Mecánica,2
+U0098,IDIOMA007,Árabe,1
+U0098,HAB012,Negociación y Pensamiento estategico,4
+U0098,HAB008,Escucha activa y Resolución de conflictos,1
+U0098,HAB004,Colaboracion y Trabajo en Equipo,1
+U0099,ARTES106,Grado en Historia y Patrimonio Histórico,1
+U0099,IDIOMA002,Ingles,4
+U0099,HAB001,Adaptabilidad y Flexibilidad,1
+U0099,HAB002,Autogestion y Proactividad,1
+U0099,HAB003,Capacidad de Analisis y  de Toma de decisiones en base a Datos,1
+U00100,CSALUD015,Grado en Óptica y Optometría,1
+U00100,IDIOMA001,Euskera,5
+U00100,HAB009,"Gestión del tiempo, Organizacion y  Planificacion",1
+U00100,HAB001,Adaptabilidad y Flexibilidad,1
