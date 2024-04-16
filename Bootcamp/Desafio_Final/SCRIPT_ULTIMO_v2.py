@@ -25,14 +25,6 @@ def completar_tablas(tabla1,tabla2):
     df_final=pd.concat([tabla1,df_faltantes],axis=1).sort_index(axis=1)
     return df_final
 
-usuarios=pd.read_csv('Tabla_perfiles.csv')
-ofertas=pd.read_csv('Tabla_ofertas.csv')
-df_usuarios=tabla_usuarios(usuarios)
-df_ofertas=tabla_ofertas(ofertas)
-df_usuarios_final=completar_tablas(df_usuarios, df_ofertas) 
-df_ofertas_final=completar_tablas(df_ofertas, df_usuarios)
-
-
 #Funcion para dar distintos pesos a los estudios y a las habilidades/idiomas
 def pesos(tabla):
     columnas_estudios = [col for col in tabla.columns if not col.startswith('HAB') and not col.startswith('IDIOMA')]
